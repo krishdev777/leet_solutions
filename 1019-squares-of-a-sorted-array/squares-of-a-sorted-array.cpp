@@ -10,6 +10,6 @@ public:
             else{ans[k]=right;j--;}
 
         }
-        return ans;
+        return ans ;
     }
 };
